@@ -6,7 +6,7 @@ import java.util.Queue;
 
 public class SongUtils {
 
-	private final int capacity;
+    private final int capacity;
     private final Map<String, String> songUserMap;
     private final Queue<String> recentlyPlayedQueue;
 
